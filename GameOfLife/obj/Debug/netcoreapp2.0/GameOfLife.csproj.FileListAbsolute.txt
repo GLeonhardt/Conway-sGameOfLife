@@ -1,0 +1,10 @@
+/home/guilherme/Documentos/Projetos/GameOfLife/bin/Debug/netcoreapp2.0/GameOfLife.deps.json
+/home/guilherme/Documentos/Projetos/GameOfLife/bin/Debug/netcoreapp2.0/GameOfLife.runtimeconfig.json
+/home/guilherme/Documentos/Projetos/GameOfLife/bin/Debug/netcoreapp2.0/GameOfLife.runtimeconfig.dev.json
+/home/guilherme/Documentos/Projetos/GameOfLife/bin/Debug/netcoreapp2.0/GameOfLife.dll
+/home/guilherme/Documentos/Projetos/GameOfLife/bin/Debug/netcoreapp2.0/GameOfLife.pdb
+/home/guilherme/Documentos/Projetos/GameOfLife/obj/Debug/netcoreapp2.0/GameOfLife.csproj.CoreCompileInputs.cache
+/home/guilherme/Documentos/Projetos/GameOfLife/obj/Debug/netcoreapp2.0/GameOfLife.AssemblyInfoInputs.cache
+/home/guilherme/Documentos/Projetos/GameOfLife/obj/Debug/netcoreapp2.0/GameOfLife.AssemblyInfo.cs
+/home/guilherme/Documentos/Projetos/GameOfLife/obj/Debug/netcoreapp2.0/GameOfLife.dll
+/home/guilherme/Documentos/Projetos/GameOfLife/obj/Debug/netcoreapp2.0/GameOfLife.pdb
