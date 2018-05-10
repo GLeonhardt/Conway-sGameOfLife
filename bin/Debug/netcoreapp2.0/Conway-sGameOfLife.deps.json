@@ -6,15 +6,15 @@
   "compilationOptions": {},
   "targets": {
     ".NETCoreApp,Version=v2.0": {
-      "GameOfLife/1.0.0": {
+      "Conway-sGameOfLife/1.0.0": {
         "runtime": {
-          "GameOfLife.dll": {}
+          "Conway-sGameOfLife.dll": {}
         }
       }
     }
   },
   "libraries": {
-    "GameOfLife/1.0.0": {
+    "Conway-sGameOfLife/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

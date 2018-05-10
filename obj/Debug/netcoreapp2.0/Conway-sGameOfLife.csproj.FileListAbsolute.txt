@@ -1,0 +1,10 @@
+C:\Users\Guilherme Leonhardt\Documents\Faculdade\Conway-sGameOfLife\obj\Debug\netcoreapp2.0\Conway-sGameOfLife.csproj.CoreCompileInputs.cache
+C:\Users\Guilherme Leonhardt\Documents\Faculdade\Conway-sGameOfLife\obj\Debug\netcoreapp2.0\Conway-sGameOfLife.AssemblyInfoInputs.cache
+C:\Users\Guilherme Leonhardt\Documents\Faculdade\Conway-sGameOfLife\obj\Debug\netcoreapp2.0\Conway-sGameOfLife.AssemblyInfo.cs
+C:\Users\Guilherme Leonhardt\Documents\Faculdade\Conway-sGameOfLife\bin\Debug\netcoreapp2.0\Conway-sGameOfLife.deps.json
+C:\Users\Guilherme Leonhardt\Documents\Faculdade\Conway-sGameOfLife\bin\Debug\netcoreapp2.0\Conway-sGameOfLife.runtimeconfig.json
+C:\Users\Guilherme Leonhardt\Documents\Faculdade\Conway-sGameOfLife\bin\Debug\netcoreapp2.0\Conway-sGameOfLife.runtimeconfig.dev.json
+C:\Users\Guilherme Leonhardt\Documents\Faculdade\Conway-sGameOfLife\bin\Debug\netcoreapp2.0\Conway-sGameOfLife.dll
+C:\Users\Guilherme Leonhardt\Documents\Faculdade\Conway-sGameOfLife\bin\Debug\netcoreapp2.0\Conway-sGameOfLife.pdb
+C:\Users\Guilherme Leonhardt\Documents\Faculdade\Conway-sGameOfLife\obj\Debug\netcoreapp2.0\Conway-sGameOfLife.dll
+C:\Users\Guilherme Leonhardt\Documents\Faculdade\Conway-sGameOfLife\obj\Debug\netcoreapp2.0\Conway-sGameOfLife.pdb
